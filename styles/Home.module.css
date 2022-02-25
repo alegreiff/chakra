@@ -114,3 +114,11 @@
     flex-direction: column;
   }
 }
+
+/* */
+
+.contenedor {
+  border: 1px grey solid;
+  border-radius: 1em;
+  text-align: center;
+}
